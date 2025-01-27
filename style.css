@@ -1,0 +1,9 @@
+body{
+	background-color: lightpink;
+	color: black;
+}
+.container{
+	background-color: lightblue;
+	padding: 15px;
+	border-radius: 16px;
+}
